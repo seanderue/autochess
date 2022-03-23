@@ -1,2 +1,2 @@
-# autochess
-My far-fetched attempt at creating an auto-chess game
+# dungeon
+A WIP browser based-clone of the table-top card game, Boss Monster
